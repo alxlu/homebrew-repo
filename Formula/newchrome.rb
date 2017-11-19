@@ -1,8 +1,8 @@
 class Newchrome < Formula
   desc "Manage chrome profiles"
   homepage "https://alx.lu"
-  url "https://github.com/alxlu/newchrome/releases/download/v0.0.3/newchrome-0.0.3.tar.gz"
-  sha256 "327e1f8cd96acfaaf572028c883bbd9224304a469c013ca99107b063b65df4a3"
+  url "https://github.com/alxlu/newchrome/releases/download/v0.0.4/newchrome-0.0.4.tar.gz"
+  sha256 "dcb90f286e7e1e14bbcf828172366f3ba8069a5daa1af905e0cacf0505b3f596"
 
   def install
     bin.install "newchrome"
